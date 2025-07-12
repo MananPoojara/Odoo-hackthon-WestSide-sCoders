@@ -1,7 +1,7 @@
 # Welcome to your project
 
 ## Project info
-
+StackIt – A Minimal Q&A Forum Platform
 
 ## How can I edit this code?
 
@@ -63,3 +63,8 @@ Yes, you can!
 
 To connect a domain, configure your deployment platform to use your custom domain.
 
+Team Members :
+Yash Fadadu (fadaduyash1994@gmail.com)
+Manan Poojara(mananpujara666@gmail.com)
+Kishan Vyas(kishanvyas308@gmail.com)
+Nit Sighani(nitsanghani05@gmail.com)

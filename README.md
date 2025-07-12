@@ -64,7 +64,7 @@ Yes, you can!
 To connect a domain, configure your deployment platform to use your custom domain.
 
 Team Members :
-Yash Fadadu (fadaduyash1994@gmail.com)
-Manan Poojara(mananpujara666@gmail.com)
-Kishan Vyas(kishanvyas308@gmail.com)
-Nit Sighani(nitsanghani05@gmail.com)
+Yash Fadadu (fadaduyash1994@gmail.com)<br>
+Manan Poojara(mananpujara666@gmail.com)<br>
+Kishan Vyas(kishanvyas308@gmail.com)<br>
+Nit Sighani(nitsanghani05@gmail.com)<br>

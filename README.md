@@ -1,5 +1,5 @@
-# Odoo-hackthon-WestSide-sCoders 
-Problem Statement 2
-StackIt – A Minimal Q&amp;A Forum Platform
+# Odoo-hackthon-WestSide-sCoders
 
-Manan Pujara - mananpujara666@gmail.com
+Team name : WestSide's Coders
+Problem Statement 2 :- StackIt – A Minimal Q&amp;A Forum Platform
+Manan Pujara :- mananpujara666@gmail.com

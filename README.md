@@ -1,4 +1,4 @@
-# Welcome to WestSife's Coders StackIt Project
+# Welcome to WestSide's Coders StackIt Project
 
 ## Project info
 StackIt – A Minimal Q&A Forum Platform
